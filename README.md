@@ -111,7 +111,7 @@ Top Country =
 
 ## 🧱 Data Model Overview
 
-
+![Netflix Logo](DASHBOARD.png)
 The data model follows a star schema with fact table: `Netflix`, and dimension-like fields: `Country`, `Date`, `Cast`, `Category`.
 
 ---
