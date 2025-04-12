@@ -57,7 +57,7 @@ Top Country =
         ALLEXCEPT(Netflix, Netflix[Country])
     )
 ```
-> *You can find more DAX formulas in .pbix file
+> _You can find more DAX formulas in .pbix file_
 
 
 📘 References:
